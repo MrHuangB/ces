@@ -2,8 +2,12 @@
 
 void main(void)
 {
+<<<<<<< HEAD
     printf("自动化学院");
 //dddddddddddddd
 //2022.6.29
+=======
+    printf("Hello world");
+>>>>>>> adb438b2337f83c458560f39709b1aed299b8c38
 
 }
